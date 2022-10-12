@@ -1,0 +1,15 @@
+[{"name":"Gluten Free"},
+{"name":"Ketogenic"},
+{"name":"Vegetarian"},
+{"name":"Lacto-Vegetarian"},
+{"name":"Ovo-Vegetarian"},
+{"name":"Vegan"},
+{"name":"Pescetarian"},
+{"name":"Paleo"},
+{"name":"Primal"},
+{"name":"Low FODMAP"},
+{"name":"Whole30"}]
+
+
+
+{"name":"tofu a la parri", "description": "mas rico q eia", "health_score": "50", "step_by_step":[{"paso1":"agarras el tofu y lo tiras a la parri"}], "diets": [1, 2]}
